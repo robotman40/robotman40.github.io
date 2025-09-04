@@ -110,7 +110,7 @@ eager to hang out with each other. Aside from our outings together, we shared a 
 rooted in our shared ideals, interests, and struggles. For example, we both had a deep, long-standing interest in astronomy.
 
 Not long into the next school year, we found ourselves occupied with lots of homework and had tests to study for nearly everyday.
-Because of this, we believe it was best for us to break up so we could focus on our studies. Nonetheless, we remain good friends to this day.
+Because of this, we believed it was best for us to break up so we could focus on our studies. Nonetheless, we remain good friends to this day.
 
 This brief, yet meaningful experience taught me two things. First, romance should come from a deeper place in our hearts. And second,
 what truly matters is whether you both genuinely enjoy the moments you share together.
