@@ -4,8 +4,7 @@ title:  "My High School Experience: A Journey to Enlightenment"
 date:   2025-09-04 15:00:00 -0700
 categories: experience
 ---
-High school is often portrayed as “the time of your life,” but what if it isn’t? Movies, books, and even peers tend 
-to romanticize this formative period. I want to offer a different lens—one that’s grounded, honest, and meaningful.
+In life, we may have gone through a time of struggle; what if we could view it differently? That's what I want to show you by talking about several aspects of my high school experiences.
 
 ## Was I Popular?
 My popularity in high school was a question of definition. Was I widely liked? Not particularly. Was I 
