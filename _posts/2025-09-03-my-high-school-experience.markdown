@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My High School Experience: A Journey to Enlightenment"
-date:   2025-09-04 15:0:00 -0700
+date:   2025-09-04 15:00:00 -0700
 categories: experience
 ---
 High school is often portrayed as “the time of your life,” but what if it isn’t? Movies, books, and even peers tend 
