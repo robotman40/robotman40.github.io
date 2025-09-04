@@ -34,7 +34,7 @@ Most of favorite subjects were in the mathematics department. In particular, I e
 AP Statistics, and AP Calculus AB.
 
 Unsurprisingly, I found those classes to be fun because they relate to my major and field of interest. Being a
-Computer Science major, I am very logical and prefer to solve problems that have have a clear solution. For AP
+Computer Science major, I am very logical and prefer to solve problems that have a clear solution. For AP
 Computer Science A, learning Java was a breeze for me and the teacher was the coolest one I had during high school.
 AP Calculus AB was the hardest class I took as a senior, but it was fascinating because it tied together everything 
 I had learned in math so far. AP Statistics was my least favorite, but I found working with data to be fun and interesting to understand.
@@ -64,7 +64,7 @@ these games, none of their messages truly resonated with me. Their stories felt 
 
 When my junior came, my tastes shifted again. I was playing Forza Horizon 4 and 5. Although I enjoyed those games, I found
 myself getting more joy taking virtual car photos rather than the actual racing. During this time, I also played Minecraft
-regularly with my friends. Only Minecraft felt meaningful; it gave me a chance to strengthen my bonds I had with the people
+regularly with my friends. Only Minecraft felt meaningful; it gave me a chance to strengthen the bonds I had with the people
 who mattered most.
 
 Finally, in my senior year, I started playing a video game series that would have a profound impact on me: Persona. On my
