@@ -4,7 +4,7 @@ title:  "My High School Experience: A Journey to Enlightenment"
 date:   2025-09-04 15:00:00 -0700
 categories: experience
 ---
-In life, we may have gone through a time of struggle; what if we could view it differently? That's what I want to show you by talking about several aspects of my high school experiences.
+In life, we may have gone through a time of struggle, but what if we could view it differently? I'm happy to say it is completely possible, and that's what I am here to show you.
 
 ## Was I Popular?
 My popularity in high school was a question of definition. Was I widely liked? Not particularly. Was I 
