@@ -159,4 +159,4 @@ to remind me that even when things may seem grim, we must persevere and find the
 everyone deserves to be happy, even when life is difficult.
 
 ## Conclusion
-Here is the key takeaway I want you to remember: even if it's not the life you envisioned, embrace it. You only live once, so you should make the most of your life. In my case, I was a social outcast and struggled with depression in high school, but did I let that defeat me? No. Instead I confronted my struggles and emerged as a stronger, more positive person. That's why I want my story to inspire you—even when life looks bleak, there is always a hidden beauty waited to be uncovered.
+Here is the key takeaway I want you to remember: even if it's not the life you envisioned, embrace it. You only live once, so you should make the most of your life. In my case, I was a social outcast and struggled with depression in high school, but did I let that defeat me? No. Instead I confronted my struggles and emerged as a stronger, more positive person. That's why I want my story to inspire you—even when life looks bleak, there is always a hidden beauty waiting to be uncovered.
