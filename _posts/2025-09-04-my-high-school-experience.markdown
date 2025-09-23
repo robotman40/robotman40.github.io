@@ -4,8 +4,7 @@ title:  "My High School Experience: A Journey to Enlightenment"
 date:   2025-09-04 15:00:00 -0700
 categories: experience
 ---
-High school is often portrayed as “the time of your life,” but what if it isn’t? Movies, books, and even peers tend 
-to romanticize this formative period. I want to offer a different lens—one that’s grounded, honest, and meaningful.
+In life, we may have gone through a time of struggle, but what if we could view it differently? I'm happy to say it is completely possible, and that's what I am here to show you.
 
 ## Was I Popular?
 My popularity in high school was a question of definition. Was I widely liked? Not particularly. Was I 
@@ -34,7 +33,7 @@ Most of favorite subjects were in the mathematics department. In particular, I e
 AP Statistics, and AP Calculus AB.
 
 Unsurprisingly, I found those classes to be fun because they relate to my major and field of interest. Being a
-Computer Science major, I am very logical and prefer to solve problems that have have a clear solution. For AP
+Computer Science major, I am very logical and prefer to solve problems that have a clear solution. For AP
 Computer Science A, learning Java was a breeze for me and the teacher was the coolest one I had during high school.
 AP Calculus AB was the hardest class I took as a senior, but it was fascinating because it tied together everything 
 I had learned in math so far. AP Statistics was my least favorite, but I found working with data to be fun and interesting to understand.
@@ -64,7 +63,7 @@ these games, none of their messages truly resonated with me. Their stories felt 
 
 When my junior came, my tastes shifted again. I was playing Forza Horizon 4 and 5. Although I enjoyed those games, I found
 myself getting more joy taking virtual car photos rather than the actual racing. During this time, I also played Minecraft
-regularly with my friends. Only Minecraft felt meaningful; it gave me a chance to strengthen my bonds I had with the people
+regularly with my friends. Only Minecraft felt meaningful; it gave me a chance to strengthen the bonds I had with the people
 who mattered most.
 
 Finally, in my senior year, I started playing a video game series that would have a profound impact on me: Persona. On my
@@ -111,7 +110,7 @@ eager to hang out with each other. Aside from our outings together, we shared a 
 rooted in our shared ideals, interests, and struggles. For example, we both had a deep, long-standing interest in astronomy.
 
 Not long into the next school year, we found ourselves occupied with lots of homework and had tests to study for nearly everyday.
-Because of this, we believe it was best for us to break up so we could focus on our studies. Nonetheless, we remain good friends to this day.
+Because of this, we believed it was best for us to break up so we could focus on our studies. Nonetheless, we remain good friends to this day.
 
 This brief, yet meaningful experience taught me two things. First, romance should come from a deeper place in our hearts. And second,
 what truly matters is whether you both genuinely enjoy the moments you share together.
@@ -160,4 +159,4 @@ to remind me that even when things may seem grim, we must persevere and find the
 everyone deserves to be happy, even when life is difficult.
 
 ## Conclusion
-Here is the key takeaway I want you to remember: even if it's not the life you envisioned, embrace it. You only live once, so you should make the most of your life. In my case, I was a social outcast and struggled with depression in high school, but did I let that defeat me? No. Instead I confronted my struggles and emerged as a stronger, more positive person. That's why I want my story to inspire you—even when life looks bleak, there is always a hidden beauty waited to be uncovered.
+Here is the key takeaway I want you to remember: even if it's not the life you envisioned, embrace it. You only live once, so you should make the most of your life. In my case, I was a social outcast and struggled with depression in high school, but did I let that defeat me? No. Instead I confronted my struggles and emerged as a stronger, more positive person. That's why I want my story to inspire you—even when life looks bleak, there is always a hidden beauty waiting to be uncovered.
