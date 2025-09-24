@@ -24,6 +24,6 @@ Here are some facts about me:
 - I have an interest in psychology due to my introspective nature
 
 Here are my online profiles:
-- [Github](https://github.com/robotman40) - Robotman40
-- [Bluesky](https://bsky.app/profile/robotman40.bsky.social) - robotman40.bsky.social
+- [Github](https://github.com/robotman40)
+- [Bluesky](https://bsky.app/profile/robotman40.bsky.social)
 - [Linkedln](https://www.linkedin.com/in/chris-rios-46898b381/)
