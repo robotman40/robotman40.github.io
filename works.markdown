@@ -12,8 +12,6 @@ from System76, a renowned Linux systems manufacturer, as well as Pop!_OS devices
 lacks itself, such as automatic power profile switching.
 - [rustzot_api](https://github.com/robotman40/rustzot_api) - A Rust crate that allows programs to conveniently retrieve data from
 the [Anteater API](https://anteaterapi.com/reference) at UC Irvine.
-- [ZotSky Mirror](https://bsky.app/profile/zotsky-mirror.bsky.social) - A bot on Bluesky that mirrors UC Irvine's X/Twitter posts
-and integrates with Nitter, an alternate frontend for X/Twitter.
 
 There are many other things I want to explore, such as contributing to open-source projects, writing essays, etc. I will post them here
 when I do them.
